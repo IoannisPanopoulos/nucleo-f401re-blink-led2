@@ -1,0 +1,15 @@
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+.project
+.cproject
+
+# Build outputs
+Debug/
+Release/
+build/
+cmake-build-*/
+
+# OS junk
+.DS_Store
+Thumbs.db
